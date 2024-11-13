@@ -892,8 +892,7 @@ if add_selectbox_Tip_sectiune_reg=='Neregulata':
                     st.pyplot(fig)
                     auto_cad(df)
                     time.sleep(5)
-                    body = "Salut. Folosesti o aplicatie aflata in faza de testare"
-)                    
+                    body = "Salut. Folosesti o aplicatie aflata in faza de testare"                    
                    
                 
 
